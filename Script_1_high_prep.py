@@ -1,7 +1,7 @@
 '''
 Created on Mar 3, 2016
 
-@author: user
+@author: jayasureyar.in@gmail.com
 '''
 import numpy as np
 import pandas as pd
@@ -103,7 +103,7 @@ def str_stem(s):
         s = s.replace("milimeters","mm.")
         s = s.replace(" mm.","mm.")
         s = s.replace(" mm ","mm. ")
-        s = s.replace("°","deg. ")
+        s = s.replace("Â°","deg. ")
         s = s.replace("degrees","deg. ")
         s = s.replace("degree","deg. ")  
         s = s.replace("volts","volt. ")
