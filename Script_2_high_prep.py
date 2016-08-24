@@ -1,7 +1,7 @@
 '''
 Created on Mar 3, 2016
 
-@author: user
+@author: jayasureyar.in@gmail.com
 '''
 import numpy as np
 import pandas as pd
