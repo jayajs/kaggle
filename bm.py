@@ -1,7 +1,7 @@
 '''
 Created on Mar 4, 2016
 
-@author: user
+@author: jayasureyar.in@gmail.com
 '''
 import gensim
 from gensim import corpora
